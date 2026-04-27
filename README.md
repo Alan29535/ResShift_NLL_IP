@@ -1,4 +1,4 @@
-<h2 align="center">🔍 Observations and Analysis</h2>
+<h2 align="center">Observations and Analysis</h2>
 
 <p>
 We observe that <b>texture regions exhibit higher uncertainty</b> than smooth regions, making them more difficult for the model to learn. 
